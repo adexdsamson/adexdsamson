@@ -18,8 +18,8 @@ I’m a passionate **Mobile and Web Developer** from Nigeria with over 4 years o
 ## 🛠️ Technical Skills
 
 - **Languages**: JavaScript, TypeScript, Go, HTML, CSS
-- **Frameworks/Libraries**: React, React Native, Redux, Tailwind CSS, Firebase
-- **Other Tools**: Git, Firebase, GraphQL, Sentry, Formik, Yup, Stripe
+- **Frameworks/Libraries**: React, React Native, Redux, Zustand, Tailwind CSS, Firebase
+- **Other Tools**: Git, Firebase, GraphQL, Sentry, Formik, react-hook-form, react-query, Yup, Stripe
 - **Methodologies**: MVC, QA, Load Testing, Cloud Services
 
 ---
