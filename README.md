@@ -54,7 +54,7 @@ Developed a platform for abuse survivors to connect with experts in real-time. L
 
 With a proven track record across various industries, I’ve been fortunate to lead and collaborate on impactful projects:
 - **Frontend Team Lead at Autogon.ai**: Driving innovation in AI and ML interface development.
-- **Mobile Developer at Eapay**: Spearheading fintech solutions with seamless UX and robust security.
+- **Mobile Developer at Ulego**: Spearheading fintech solutions with seamless UX and robust security.
 - **Web Developer at Hillcross College**: Built a collaborative educational platform integrating PDF handling, real-time grading, and student-teacher communication.
 
 ---
