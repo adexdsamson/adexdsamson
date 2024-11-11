@@ -45,8 +45,8 @@ Developed a platform for abuse survivors to connect with experts in real-time. L
 
 ## 📈 GitHub Stats
 
-![Adeola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Adeola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adexdsamson&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adexdsamson&layout=compact&theme=radical)
 
 ---
 
