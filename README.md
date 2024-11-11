@@ -11,8 +11,7 @@ I’m a passionate **Mobile and Web Developer** from Nigeria with over 4 years o
 - 👯 **Looking to Collaborate**: Open-source projects, fintech applications, and AI-driven applications.
 - 💬 **Ask Me About**: Front-end development (React), React Native, state management with Redux, and building responsive UI with Tailwind CSS.
 - 📫 **Contact Me**: [adexdsamson@gmail.com](mailto:adexdsamson@gmail.com)
-- 😄 **Pronouns**: *(Please add your preferred pronouns)*
-- ⚡ **Fun Fact**: *(Consider adding a unique fact about your tech journey or hobbies)*
+- ⚡ **Fun Fact**: *I believe in lifelong learning, so I'm always trying to master something new.*
 
 ---
 
